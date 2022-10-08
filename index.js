@@ -1,3 +1,5 @@
+#! /usr/env node
+
 const Box = require("cli-box");
 const inquirer = require("inquirer");
 const open = require('open');

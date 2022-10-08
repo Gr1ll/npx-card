@@ -1,10 +1,24 @@
 {
-    "name": "DevGrill",
-    "version": "1.0.0",
-    "bin": "./index.js",
-    "dependencies": {
-        "cli-box": "^6.0.10",
-        "inquirer": "^8.0.0",
-        "open": "^8.4.0"
-    }
+  "name": "devgrill",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "devgrill": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevGrill/npx-card.git"
+  },
+  "author": "DevGrill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DevGrill/npx-card/issues"
+  },
+  "homepage": "https://github.com/DevGrill/npx-card#readme",
+  "dependencies": {
+    "cli-box": "^6.0.10",
+    "inquirer": "^8.0.0",
+    "open": "^8.4.0"
+  }
 }
