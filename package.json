@@ -1,5 +1,5 @@
 {
-    "name": "DevGrill card",
+    "name": "DevGrill",
     "version": "1.0.0",
     "bin": "./index.js",
     "dependencies": {
