@@ -1,4 +1,4 @@
-#! /usr/env node
+#! /usr/bin/env node
 
 const Box = require("cli-box");
 const inquirer = require("inquirer");

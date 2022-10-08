@@ -4,14 +4,14 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "devgrill": "index.js"
+    "devgrill": "./index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/DevGrill/npx-card.git"
   },
   "author": "DevGrill",
-  "license": "MIT",
+  "license": "ISC",
   "bugs": {
     "url": "https://github.com/DevGrill/npx-card/issues"
   },
