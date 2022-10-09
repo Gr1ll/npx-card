@@ -3,6 +3,10 @@
 ## Copy
 Feel free to fork the repositorie and give it a star :D
 
+## Run
+1) Install [NodeJS](https://nodejs.org/en/)
+2) open your Terminal
+3) Run `npx devgrill`
 
 ## Preview:
 ```cmd
