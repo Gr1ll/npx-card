@@ -29,4 +29,4 @@ Feel free to fork the repositorie and give it a star :D
 ## Inspired
 This card is inspired by [npx_card](https://github.com/anmol098/npx_card).
 
-I did not copied a single line of code, just let me inspire by it!
+I did not copy a single line of code, just let me inspire by it!
