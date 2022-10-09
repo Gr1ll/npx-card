@@ -25,3 +25,7 @@ Feel free to fork the repositorie and give it a star :D
   visit my website
   exit
 ```
+
+## Inspired
+This card is inspired by [npx_card](https://github.com/anmol098/npx_card)
+Not copied a single line of code!
