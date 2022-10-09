@@ -1,7 +1,7 @@
 # NPX-Card
 
 ## Copy
-Feel free to fork the repositorie and give it a STAR :D
+Feel free to fork the repositorie and give it a star :D
 
 
 ## Preview:
