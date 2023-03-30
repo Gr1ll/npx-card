@@ -42,7 +42,7 @@ function runAction(answers) {
       break;
 
     case "visit my website":
-      open("https://www.devgrill.me/")
+      open("http://devgrill.ch/")
       break;
 
     case "exit":
