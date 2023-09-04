@@ -58,7 +58,7 @@ function createMenu(displayMessage) {
         type: "list",
         name: "action",
         message: displayMessage,
-        choices: ["contact me", "invite my bot", "view my github", "visit my website", "exit"]
+        choices: ["contact me", "invite my bot", "view my github", "exit"]
       }
     ])
     .then((answers) => {
@@ -68,7 +68,7 @@ function createMenu(displayMessage) {
 
 const myBox = new Box({
   w: 50,
-  h: 10,
+  h: 9,
   stringify: false,
   marks: {
     nw: '╭',
@@ -86,6 +86,6 @@ const myBox = new Box({
 ▸ Joined Earth Server   :   ${getRelativeTime(new Date('03/13/2006'))}
 ▸ Joined Discord        :   ${getRelativeTime(new Date('10/14/2018'))}
 ▸ Started Coding around :   ${getRelativeTime(new Date('01/15/2017'))}
-▸ My own Website        :   http://devgrill.ch/`);
+`);
 console.log(myBox.stringify());
 createMenu("What do you want to do now?");
