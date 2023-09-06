@@ -38,7 +38,7 @@ function runAction(answers) {
       break;
 
     case "view my github":
-      open("https://github.com/DevGrill/")
+      open("https://github.com/Gr1ll/")
       break;
 
     case "visit my website":
