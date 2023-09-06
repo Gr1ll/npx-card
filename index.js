@@ -30,7 +30,7 @@ var getRelativeTime = (d1, d2 = new Date()) => {
 function runAction(answers) {
   switch (answers) {
     case "contact me":
-      open("mailto:no-email-atm")
+      open("mailto:cyril.kurmann@gmail.com")
       break;
 
     case "invite my bot":
